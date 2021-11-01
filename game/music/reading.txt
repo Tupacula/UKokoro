@@ -1,0 +1,369 @@
+16
+GAME MECHANICS,
+EXPERIENCE DESIGN,
+AND AFFECTIVE
+PLAY
+Patrick Jagoda and Peter McDonald
+This chapter explores games as a major object of study in both media theory and practice.
+We begin by identifying two competing critical approaches to games: the proceduralist (which
+emphasizes rules, objectives, and systems) and the play-centric (which emphasizes modes of
+player response). By distinction, we advocate for a middle ground, a type of experience design
+that foregrounds the ways players can affect and be affected by a game: experientially, kin -
+es thetically, and ideologically. The main site for this elaboration of affect is game mechanics.
+The chapter draws from close readings of existing digital and analog games, as well as tech -
+niques developed through the creative process in the Game Changer Chicago (GCC) Design
+Lab, to which we both belong. Ultimately, we offer a sketch of a practice-based research
+method for designing learning-oriented and serious games in media studies.
+The Procedural and the Playful
+Two primary approaches have dominated game studies since the early 2000s, one organized
+around procedure and the other around play. In an important study of storytelling in
+computational environments, Janet Murray observes that a key attribute of computers is
+that they “execute a series of rules” that enable dynamic interactions between the machine
+and human actors (1997: 71–72). Storytellers and game designers, Murray contends, can use
+algo rithms and rules to convey interpretations. One of the most vocal theorists of pro cedural -
+ism, Ian Bogost, defines it as a way of generating and making sense of processes. Processes,
+in turn, “define the way things work: the methods, techniques, and logics that drive the
+operation of systems, from mechanical systems like engines to organizational systems like
+high schools to conceptual systems like religious faith” (Bogost 2007: 3). Videogames are
+a medium that uses, and even depends on, what Bogost calls “procedural rhetoric,” which
+“explains processes with other processes” in order to persuade users of a particular viewpoint
+(9). This procedural approach privileges a game’s rules and its representation of select systems.
+For example, the single-player, turn-based videogame PeaceMaker (Impact Games, 2007),
+puts the player in the perspective of either the Israeli prime minister or the Palestinian
+174
+president. PeaceMaker produces a system in which the player’s success hinges on a multifaceted
+political ecology. Actions reveal implicit ethical arguments: delivering peaceful speeches or
+establishing welfare programs are more consistently rewarded with higher scores than
+militaristic responses. Even more explicitly, the game posits a two-state solution as its goal.
+PeaceMaker does not produce an expository argument about responses to international grid -
+lock (as a blog post might) nor does it craft a psychological perspective on this system (as a
+stream-of-consciousness novel might). Instead, the game invites players to experiment with
+algorithmic processes to better understand a set of political processes, as modeled by the
+designers.
+Proceduralism has contributed to the analysis of videogames as cultural objects and
+influenced design practices, especially of so-called “serious games” that explicitly address social
+and political topics in the interest of participatory advocacy. At the same time, scholars more
+interested in processes of play than game structures have emphasized the limitations of
+procedural rhetoric as an analytic and design technique. At the forefront of the antipro cedural
+approach is Miguel Sicart, who contends that proceduralism is essentially a version of
+formalism. A consequence of proceduralism, Sicart argues, is that “it grants great power and
+influence to the designer,” who produces the system that the player must, in turn, reverse
+engineer sufficiently to unpack the meaning that is inherent in it (2011). For Sicart, the
+limitation of proceduralism is that it marginalizes the ways in which people play by stipu -
+lating that meaning largely precedes the act of play. In other words, a game’s procedural
+rhetoric belongs to its system of rules and objectives, rather than to the ways in which players
+test and transform that system. In contrast, play-centric accounts demonstrate that actions and
+meanings cannot prefigure play. As Alexander Galloway argues, though machine actions are
+key, digital games only “exist when enacted” (2006: 2). This focus on play has found pro -
+ponents not only in the humanities, but also among sociology and anthropology scholars who
+use qualitative techniques, such as interviews, to study a plurality of player interpretations
+(Voorhees 2013).
+In videogames, different players may indeed have distinct experiences of action, narrative,
+or roleplaying. For example, Kurt Squire argues that open-ended simulation or “sandbox”
+games, such as Civilization III and Grand Theft Auto: San Andreas, operate as “possibility spaces”
+in which players can “try on, inhabit, and ultimately develop new identities with trajectories
+for participation that extend out of the game world and into new spaces” (2008: 171–2). In
+other cases, a game’s artificial intelligence may promote emergent gameplay by adapting
+dynamically to a player’s skill and present situation. The “AI Director” of Left 4 Dead works
+collaboratively with players to produce dramatic encounters and spawns “Infected” enemies
+based on player performance, creating novel play scenarios. Even in games that are not created
+explicitly to promote emergent play styles, participants frequently use a system in ways that
+were not intended or predicted by the designers. For instance, players may find creative ways
+to exploit glitches, such as “rocket jumping” in Quake or Halo, that allow them to achieve
+greater elevation by (mis)using a weapon for mobility. In still other cases, games themselves
+produce variable experiences from session to session through procedurally generated char -
+acters (e.g., creatures in Spore) and levels (e.g., the fantasy world of Dwarf Fortress).
+This theoretical rift is roughly parallel to the earlier split in literary criticism between, on
+the one hand, Russian Formalism and American New Criticism and, on the other hand,
+reader-response theory and deformative criticism that privileged creative interpretation. To
+be fair, however, procedural and play-centric theories are not mutually exclusive. Most pro -
+ceduralists do, to some extent, account for the role of play in game activities. For example,
+Bogost notes:
+GAME MECHANICS, DESIGN, AND AFFECTIVE PLAY
+175
+In a procedural representation like a videogame, the possibility space refers to the
+myriad configurations the player might construct to see the ways the processes
+inscribed in the system work. This is really what we do when we play videogames:
+we explore the possibility space its rules afford by manipulating the game’s controls.
+(Bogost 2007: 42)
+In this formulation, seemingly inexpressive processes can still enable complex forms of
+expression. Even so, Sicart (2014) is right that meaning is, for Bogost, founded in procedures
+whereas, for him, procedures are secondary to the possibilities of play.
+Experience Design: Rules, Mechanics, and Affect
+Sicart goes as far as to argue that “games don’t matter” when compared to the more gen er -
+alized processes of play unfolding in toys, playgrounds, technologies, and social groups
+(2014: 2). Though we share Sicart’s investment in a broader landscape of play, as game
+designers we are also interested in what both procedural and play-centric theories have to
+teach us about game creation practices. Given the increasingly practice-based orientation of
+digital humanities and new media studies, especially as they are taken up in this volume, we
+would like to use these frameworks to think about the design of serious games. One bridge
+between procedures and play through design comes from Katie S. Tekinbas¸ and Eric
+Zimmerman (2003). As they show, game designers may start by creating a rule-based system
+and defining some of its affordances, but the success of a game ultimately depends on ex -
+peri ence design that privileges the prospective player. As Tekinbas¸ puts it, a designer becomes
+“a socio-technical engineer, thinking about how people will interact with the game and how
+the game will shape both competitive and collaborative social interaction” (2007: 305). Instead
+of over-determining form, this orientation yields an evocative design created for ambiguous
+and open-ended experiences.
+The concept of experience design suggests an internal tension insofar as it combines the control
+of design with the uncontrollable diversity of player experiences. Thus, design may influence
+experience, but only in an indirect way. Even so, rather than limiting playfulness, Tekinbas¸
+and Zimmerman argue that rules “create multiple levels of play experience, layering strategic
+thinking and gradual skill acquisition on top of the physical and perceptual components of
+the core mechanic” (2003: 320). Game mechanics are the set of techniques for interacting
+with a game world that are arbitrarily mapped through an interface to player gestures and
+are both constrained and enabled by a game’s platform, whether it is a PlayStation 4 console
+or an analog game board. These actions, expressed as verbs, might include “jumping” in a
+platformer or “targeting” in a first-person shooter. For Tekinbas¸ and Zimmerman, and for
+us, a mechanic is a key point of mediation between the player and the game that opens up
+the ambiguity of play. A mechanic provides a point of departure from which a variety of
+procedural rhetorics can proliferate. On the one hand, a mechanic is a kind of rule, an action
+that the game can allow or disallow; on the other, players must take up that act as their own
+for the game to proceed.
+Mechanics arguably provide the clearest example of how constraint imposed through design
+can enable creativity and playfulness instead of limiting players. For example, Super Mario
+World opens up pleasurable kinesthetic sensations and bodily identifications by allowing its
+players to fly. However, the sense of freedom in flying only emerges against the backdrop
+of Mario’s ordinary activities of running and jumping. Reciprocally, because flight requires
+a power-up and takes a significant running start, and because its duration depends on a player’s
+PATRICK JAGODA AND PETER MCDONALD
+176
+skill, Mario’s repertoire of jumps accumulates meanings. It might be required to traverse a
+level, or it might enable the enjoyment of acrobatic movements. The point we want to
+emphasize, contra Sicart and others, is that rules are not essentially prohibitive (as Michel
+Foucault already argues of rules in a broader socio-historical context). Instead, they multiply
+possible meanings of play by creating new contexts of action.
+If the meanings of a game are negotiable, and emerge from the interplay between rules
+and experience, between procedure and play, then mechanics may serve to orient both game
+analysis and design. While game mechanics may not yield the kind of discursive argumen -
+tation of procedural rhetoric, they constitute an ideal unit of analysis for affective experiences.
+Though it has many connotations, the term “affect” refers essentially to a “nonconscious
+experience of intensity” that differs from either feelings that are personal and narrativizable
+or emotions that are visible and communicative (Shouse 2005). As verbs, mechanics help us
+think about potentials, transformations, desires, intensities, experimental engagements, and
+connections among players. Importantly, while the process of narrating game experiences
+often entails describing affects as feelings, mechanics do not merely produce unified results
+in which jumping elicits one kind of bodily sense whereas targeting evokes another. Jumping
+provokes myriad feelings, including elation, freedom, curiosity, or a sense of precarity, while
+targeting produces malice, satisfaction, the sense of appropriative connection to a target, or
+a feeling of bodily extension through a world. More than defining feelings, mechanics enable
+players to affect the world of the game, and in turn be affected by it, opening up aleatory
+experiences. We are using affect here as somewhat synonymous with feeling, but also want
+to draw on the legacy of Spinoza for whom the possible activity and passivity of a body
+determines its feelings. Gilles Deleuze observes of Spinoza that “we do not even know what
+a body can do,” and this is equally true of the gamer’s or the avatar’s body (1983: 36). Funda -
+mentally, mechanics can generate proliferating affects and meanings that exceed a one-toone signification.
+As we have been discussing them, mechanics mediate between rule-bound situations and
+player affects. As Tekinbas¸ and Zimmerman put it:
+To play a game is to experience the game: to see, touch, hear, smell, and taste the
+game; to move the body during play, to feel emotions about the unfolding outcome,
+to communicate with other players, to alter normal patterns of thinking.
+(Tekinbas¸ & Zimmerman 2003: 314)
+Though “fun” is perhaps the most frequently invoked aspect of game experience, games
+generate a wide range of affects. Some of these may serve persuasive purposes, but others
+are more ambiguous or aesthetic in nature. Procedural analyses often limit the discussion of
+affective experiences, restrict them to oversimplified typologies, or characterize them as
+ideological elements. Similarly, discussions of a game’s “interactivity” often privilege agency,
+figured as choice that a player does or does not have. However, beyond the binary split implicit
+in fun or agential interactivity, players may also experience affects such as anxiety, paranoia,
+anticipation, and curiosity in the process of encountering hardware, interfaces, game worlds,
+and player cultures.
+In the remaining sections, we begin to sketch out the ways that game mechanics might open
+up more nuanced forms of analysis and design strategies. To do so, we focus neither on a
+priori rules, objectives, and systems (as proceduralists might) nor modes of play (as play-centric
+theorists might). Instead, charting a middle path, we explore the meaning of mechanics in
+play, first in game analysis and second in game design.
+GAME MECHANICS, DESIGN, AND AFFECTIVE PLAY
+177
+PATRICK JAGODA AND PETER MCDONALD
+178
+The Case of “Collecting” in Katamari Damacy:
+Game Analysis
+The three interpretive methods that we are comparing—practices that focus on rules (pro -
+ceduralism), play (play-centrism), and mechanics (experience design)—can usefully be
+juxtaposed by showing how they operate in the analysis of a single game. The mechanic of
+“collecting” in the innovative videogame, Katamari Damacy (Namco 2004; see Figure 16.1),
+serves as a clarifying case. In this game, players use two analog sticks to control “The Prince,”
+an alien avatar who rolls around a sticky ball that collects everything in its path. This “katamari”
+ball grows from an initial size of 5 cm (at which point it collects tacks and ants) to an eventual
+size of over 300 meters (at which point the katamari can collect cars and buildings). In each
+level, the katamari must reach a certain size within a time limit. In addition to the assorted
+mass, players collect special objects that form larger collections such as cousins of the Prince
+and uniquely named versions of ordinary objects. New media scholars McKenzie Wark
+(2007) and Steven Jones (2008) offer readings of the game that privilege procedure and
+play, respectively. In contrast, we offer a third reading that describes a range of affects that
+the game activates through collecting.
+Wark’s Gamer Theory (2007) articulates a strong version of the proceduralist thesis. For
+Wark, it is because a world framed by late capitalism has adopted the structure of games that
+this medium can help us understand the present. Particular games make aspects of capitalism
+easier or more difficult to see through their procedural rhetoric, or what Wark (following
+Alexander Galloway’s neologistic combination of “allegory” and “algorithm”) calls their
+“allegorithm.” Even so, the simplest game already contains the defining qualities of capitalism.
+In Wark’s reading, Katamari Damacy becomes an updated myth of Sisyphus, and an allegory
+for the capture of the analog by the digital. For instance, the game transforms the aleatory
+line of the katamari into thresholds of size and time that convert it into a binary value of
+Figure 16.1 Katamari Damacy.
+Source: Namco 2004.
+success or failure, removing the older ambiguity of Sisphysus’ task. The omnivorous tendency
+of the katamari to absorb even those things that appear solid, such as the walls that demarcate
+a level’s boundaries, demonstrates the reduction of qualitative difference to numerical
+quantities. The katamari also operates across radically different scales, substituting a human
+perspective for the microscopic and the cosmic. This summary is not an exhaustive list of
+what Wark suggests we can see through Katamari Damacy, but the point is that in each case
+the specific procedural argument can be translated into a statement, a fact that we now know
+about late capitalism.
+In an essay that is in part a response to Wark, Steven Jones also argues that Katamari Damacy
+tells us something essential about games. Instead of treating collecting as a symptom of cap -
+italism, Jones characterizes this mechanic as a feature of most games in which a player picks
+up a weapon or a key and generates meaning through that process. In this way, collecting
+in a videogame is an act that is comparable to collecting on eBay or during archival research.
+Jones takes Katamari Damacy to embody a punk aesthetic in its anarchic collecting mechanic
+that evacuates pre-established meaning and leaves a void that demands to be filled by player
+actions. Because it has no content of its own, collecting in this game is “inherently an activity
+that points outside of itself, outside of the game itself . . . because it only truly has meaning
+in the context of a fanbase or other kind of community” (Jones 2008: 64). The playful path
+of the ball, the qualities of the objects that are rolled together, the kinesthetic pleasure of the
+joysticks—these are the elements from which players generate meaning.
+For both Wark and Jones, Katamari Damacy is a privileged example because the game reflects
+on its material and formal conditions. In our own approach, one which privileges the way
+that mechanics generate affects, Katamari Damacy is also important because it operates as a
+tour de force of collecting, exploring the various senses of the verb that are visible in more
+isolated forms in games such as Pokémon or Go Fish. Unlike the real world collections that
+Jones explores, the objects in Katamari Damacy are ideal in a variety of senses that alter the
+feeling of collecting them. For instance, they do not degrade with time, they cannot be des -
+troyed, and they are not removed from circulation when placed in another player’s collection.
+Collecting is thus removed in this game from an involvement in an economy, making rare
+acquisitions correspond directly to virtuosic performance in the game. Desire is indexed to
+difficulty rather than rarity. Furthermore, because objects cannot be destroyed, the potential
+for growth matters more than the threat of loss, a feeling made visceral whenever players
+recklessly knock pieces off their katamari ball.
+In Katamari Damacy, collecting is recontextualized by rules that idealize the world. The
+mechanic responds with affordances of fearlessness, virtuosic performance, and yearning. In
+this structure of feeling, we might recognize both the Sisyphean labor of Wark’s account and
+the anarchic punk aesthetic of Jones. But there are other valences as well that can illuminate
+thematic choices within the game, such as the narrative resonance with courtly love or an
+alternate relation to the father that bypasses the anxiety of castration or loss. The meaning of
+collecting is not unitary, nor tied to the rhetorical purposes of a particular game, but neither
+is it vague or characteristic of all play. A mechanic constellates an array of feelings, a palette
+that a designer or player can reliably draw upon.
+The Case of “Blocking” in Smoke Stacks:
+Game Design
+Affects are key to game experience in general, but they play an especially central role in
+learning-oriented games. Though affect as such does not figure prominently in literature about
+GAME MECHANICS, DESIGN, AND AFFECTIVE PLAY
+179
+educational games, related discussions about emotion inform practice-based research in
+digital humanities and new media studies. James Paul Gee argues that work in education has
+traditionally emphasized rationality and intellectual content over emotion. However, as he
+adds, emotion helps learners to integrate previous knowledge and organize long-term mem -
+ory, focus attention and retrieve information, and evaluate possible actions (2008: 35). Games
+that seek to promote learning, then, must be attentive to the range of possible play experiences,
+including gradations of various named emotions and nonconscious intensities.
+Since the 1980s, many educational games—including what Mizuko Ito calls “academic”
+games such as Math Blaster and “entertainment” games such as Where in the World is Carmen
+Sandiego? (2008: 89–116)—have offered interactive content delivery without a robust emo -
+tional experience. Similarly, serious games with social and political objectives some times put
+a greater emphasis on conveying values through game systems in a direct fashion, as Mary
+Flanagan and Helen Nissenbaum have described the work of the “conscientious designer”
+(2014: xii–xiii). While content and values are important in such games, emotions and
+especially obscure or illegible affects can sometimes become marginal.
+The analysis of the collecting mechanic that we suggested in the previous section
+demonstrates the types of affects, feelings, and moods that games make available. An under -
+standing of how core game mechanics generate such affects, and the meanings that follow
+from them, may be even more useful for designing games that are meant to tackle specific
+social issues. At the GCC Design Lab, we create both digital and board games that explore
+issues of social and emotional health related to topics such as unplanned pregnancy and
+bullying. In designing such games, we often experiment with the affective affordances of
+mechanics through techniques of rapid prototyping and iterative design. Because our goal is
+often to influence the knowledge, attitudes, or behaviors of players, an understanding of affect
+becomes especially important.
+To briefly demonstrate how mechanics and affects are important to serious game design,
+we take up a case study of a board game that the authors created as part of the GCC Design
+Lab. This game, Smoke Stacks, tackles the use of tobacco products among high school youth.
+The game is one in a suite designed for the same Hexacago board, which depicts the city of
+Chicago broken down into hexagons. The learning objectives for Smoke Stacks include helping
+players understand marketing approaches deployed by the tobacco industry and their impact
+on smoking behaviors. By helping youth understand the history of tobacco legislation as well
+as the health effects of smoking, the game attempts to curb interest in tobacco products. In
+the game, four to six players take the role of tobacco companies who try to accumulate as
+many customers as possible. In each round, players formulate corporate strategies by bidding
+on cards that provide them with products (e.g., “cigarettes” or “chewing tobacco”), marketing
+approaches (e.g., making customers feel “independent” or “sexy”), and advertising media
+(e.g., “television” or “billboards”). These cards allow each player to target particular customers
+in certain zones on the board, while every customer increases a player’s profit margin.
+In creating Smoke Stacks, we did not privilege a uniform play experience but rather attended
+to the broad range of affects that mechanics might generate. The three primary mechanics
+in this game are collecting (picking up customers from particular urban zones), wagering (on
+corporate strategy cards), and blocking (keeping other players from collecting the cards they
+want). In our iterative design process, we were attentive, for example, to the affordances of
+blocking. In our research on blocking in games, we analyzed sports games, popular board
+games such as Settlers of Catan, and tower defense videogames. Across these genres, we char -
+acterized blocking as a mechanic that arises through the player’s investment in a project that
+is under threat. In many of these games, players often go to wasteful lengths to negate a threat
+PATRICK JAGODA AND PETER MCDONALD
+180
+and regain a sense of safety, and they give up only when the situation feels utterly futile. To
+block, the player must understand the motives of an opponent and the details of the game
+system. Such understanding infuses minute actions with a sense of urgency, while sometimes
+generating feelings of pettiness, aggression, and desire for revenge.
+In the Smoke Stacks design, mechanics foreground specific feelings that attend political,
+economic, and social systems often imagined at scales beyond individual human experience.
+In other words, mechanics make the abstraction of systems tangible. In the context of tobacco
+use, blocking gives players an opportunity to work through the affective dimensions of how
+certain policies may lead to a competitive race to the bottom. Players can block other players
+from either collecting desired cards or accumulating the maximum number of customers.
+The experience of blocking another player animates ways in which inequality is built into
+policies, even when the rationality of large-scale systems such as “the market” is meant to
+overshadow human motivations and feelings.
+The tobacco system that Smoke Stacks models allows a player to experiment with elements
+of corporate strategy, profit motives, addictive consequences, and histories of government
+legislation. The game makes this affective field, which includes both systemic and historical
+elements, accessible and palpable through mechanics. Given the complexity of this dynamic
+system, the process of experience design required frequent playtesting with ongoing player
+feedback and designer self-reflection over several months. An iterative design method maxi -
+mized the affordances of the core mechanics. Thus, rather than seeking uniform reception,
+the design process explored the possible experiences that each version of the game made
+possible.
+Conclusion
+This chapter offers only a sketch of a form of game analysis and experience design that priv -
+ileges mechanics as a way to understand the affective dimensions of broader systems. Although
+we focused on a few case studies, experience design is important to a wide array of methods
+across games and genres. Such methods might include not only close reading but also the
+study of online archives of player responses to games, focus groups and interviews with players,
+and practice-based research that includes creating and play testing games to better understand
+their affordances. The field of game studies, and perhaps especially the growing area of serious
+game analysis and design, will benefit from a fuller understanding of the relationship between
+mechanics and affects.
+Further Reading
+Bogost, I. (2006) Unit Operations: An Approach to Videogame Criticism, Cambridge, MA: MIT Press.
+Flanagan, M. (2009) Critical Play: Radical Game Design. Cambridge, MA: MIT Press
+Isbister, K. (2016) How Games Move Us: Emotion by Design, Cambridge, MA: MIT Press.
+Juul, J. (2005) Half-Real: Video Games Between Real Rules and Fictional Worlds, Cambridge, MA: MIT Press.
+Miller, K. (2012) Playing Along: Digital Games, YouTube, and Virtual Performance, Oxford: Oxford University Press.
+Wardrip-Fruin, N. (2009) Expressive Processing: Digital Fictions, Computer Games, and Software Studies, Cambridge,
+MA: MIT Press.
+References
+Bogost, I. (2007) Persuasive Games: The Expressive Power of Videogames, Cambridge, MA: MIT Press.
+Deleuze, G. (1983) Nietzsche and Philosophy, New York, NY: Columbia University Press.
+Flanagan, M. and H. Nissenbaum (2014) Values at Play in Digital Games, Cambridge, MA: MIT Press.
+GAME MECHANICS, DESIGN, AND AFFECTIVE PLAY
+181
+Galloway, A. (2006) Gaming: Essays on Algorithmic Culture, Minneapolis, MN: Minnesota University Press.
+Gee, J. P. (2008) “Learning and Games,” in K. S. Tekinbas¸ (ed.) The Ecology of Games: Connecting Youth, Games,
+and Learning, Cambridge, MA: MIT Press.
+Ito, M. (2008) “Education vs. Entertainment: A Cultural History of Children’s Software,” in K. S. Tekinbas¸ (ed.)
+The Ecology of Games: Connecting Youth, Games, and Learning, Cambridge, MA: MIT Press.
+Jones, S. E. (2008) The Meaning of Videogames, New York, NY: Routledge.
+Murray, J. (1997) Hamlet on the Holodeck: The Future of Narrative in Cyberspace, New York, NY: The Free Press.
+Shouse, E. (2005) “Feeling, Emotion, Affect,” M/C Journal 8.6.
+Sicart, M. (2011) “Against Procedurality,” Game Studies 11.3.
+Sicart, M. (2014) Play Matters, Cambridge, MA: MIT Press.
+Squire, K. (2008) “Open-Ended Video Games: A Model for Developing Learning for the Interactive Age,” in
+K. S. Tekinbas¸ (ed.) The Ecology of Games: Connecting Youth, Games, and Learning, Cambridge, MA: MIT Press.
+Tekinbas¸, K. S. (2007) “Gaming Literacies: A Game Design Study in Action,” Journal of Educational Multimedia and
+Hypermedia 16.3.
+Tekinbas¸, K. S. and E. Zimmerman (2003) Rules of Play: Game Design Fundamentals Cambridge, MA: MIT Press.
+Voorhees, G. (2013) “Criticism and Control: Gameplay in the Space of Possibility,” in M. Wysocki (ed.) Ctrl-AltPlay: Essays on Control in Video Gaming, Jefferson, NC: McFarland.
+Wark, M. (2007) Gamer Theory, Cambridge, MA: Harvard University Press.
+PATRICK JAGODA AND PETER MCDONALD
+182

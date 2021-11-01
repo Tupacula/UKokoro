@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 1336: expected statement.
+    countdown = 20 - counter
+              ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Tue Dec 10 21:15:10 2019
